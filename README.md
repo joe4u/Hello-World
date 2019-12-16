@@ -1,4 +1,5 @@
 # Hello-World
+I'm a freshman
 Here is an example of AppleScript:
 
     tell application "Foo"
